@@ -1,0 +1,5 @@
+requests
+pandas
+sqlalchemy
+psycopg2
+sqlalchemy<2.0
